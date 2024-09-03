@@ -1,8 +1,8 @@
 # Face-rec
 This is my project for attendance system using python to scan faces
-This project requires some modules that will be
-1.opencv-python
-2.Pillow
-3.face-recognition
-4.tkinter
+This project requires some modules that will be/n
+1.opencv-python/n
+2.Pillow/n
+3.face-rec/nognition
+4.tkinter/n
 #Note :For face recognition module its necessary that cmake and dlib files are present.
